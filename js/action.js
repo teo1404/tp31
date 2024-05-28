@@ -68,7 +68,7 @@ function resTa(){
     cont.innerText = counter
     }else{
         resta.style.color = "red"
-        resta.style.cursor = "pointer"
+        resta.style.cursor = "not-allowed"
     }
 
 
