@@ -5,7 +5,7 @@
       "desc":"Nuestra humilde morada tiene el gusto de resivirlos con los brazos abiertos, ",
       "dist":"6km","ubic":"Asian, Chinese","time":"09:00-11:00",
       "value":{"stars":4,"coments":72,"cost":2},
-      "img":{"src":"./img/restos/resto0.jpg","alt":""},
+      "img":{"src":"./img/restaurante/resto0.jpg","alt":""},
       "menu":[
         {
             "id": 1,
@@ -141,7 +141,7 @@
       "name":"cristian Barber",
       "dist":"34km","ubic":"Latam, Pilar","time":"10:00-16:00",
       "value":{"stars":3,"coments":320,"cost":2},
-      "img":{"src":"./img/restos/resto1.jpg","alt":""},
+      "img":{"src":"./img/restaurante/resto1.jpg","alt":""},
       "menu":[
         {"id":1,"name":"Milas","price":"$8.99","desc":"Nuestra especialidad"},
         {"id":2,"name":"Miluchas","price":"$9.99","desc":"Te las recomendamos"},
@@ -170,7 +170,7 @@
       "name":"Maxi",
       "dist":"12km","ubic":"Latam, Tortu","time":"08:00-07:59",
       "value":{"stars":2,"coments":3,"cost":1},
-      "img":{"src":"./img/restos/resto2.jpg","alt":""},
+      "img":{"src":"./img/restaurante/resto2.jpg","alt":""},
       "menu":[
         {"id":1,"name":"Pizza","price":"$8.99","desc":"Nuestra especialidad"},
         {"id":2,"name":"Muzarella","price":"$9.99","desc":"Te las recomendamos"},
@@ -206,7 +206,7 @@
       "name":"facu",
       "dist":"60km","ubic":"Grand Bourg, Rotonda","time":"08:00-23:00",
       "value":{"stars":1,"coments":999,"cost":3},
-      "img":{"src":"./img/restos/resto3.jpg","alt":""},
+      "img":{"src":"./img/restaurante/resto3.jpg","alt":""},
       "menu":[
         {"id":1,"name":"Pancho","price":"$8.99","desc":"Nuestra especialidad"},
         {"id":2,"name":"Pancho con catsup","price":"$9.99","desc":"Te las recomendamos"},
@@ -238,7 +238,7 @@
       "name":"Chazarex",
       "dist":"6km","ubic":"Tortu, Plaza La Amistad","time":"10:00-20:00",
       "value":{"stars":4,"coments":23,"cost":3},
-      "img":{"src":"./img/restos/resto4.jpg","alt":""},
+      "img":{"src":"./img/restaurante/resto4.jpg","alt":""},
       "menu":[
         {"id":1,"name":"Té","price":"$8.99","desc":"Nuestra especialidad"},
         {"id":2,"name":"Chai","price":"$9.99","desc":"Te las recomendamos"},
@@ -267,7 +267,7 @@
       "name":"river",
       "dist":"1200km","ubic":"Grand Bourg, Rotonda","time":"03:00-23:00",
       "value":{"stars":3,"coments":456,"cost":2},
-      "img":{"src":"./img/restos/resto5.jpg","alt":""},
+      "img":{"src":"./img/restaurante/resto5.jpg","alt":""},
       "menu":[
         {"id":1,"name":"Papas","price":"$8.99","desc":"Nuestra especialidad"},
         {"id":2,"name":"Patatas","price":"$9.99","desc":"Te las recomendamos"},
@@ -296,7 +296,7 @@
       "name":"teo de river",
       "dist":"0,01km","ubic":"Tortu, Roberto Arlt","time":"17:20-21:40",
       "value":{"stars":5,"coments":30,"cost":3},
-      "img":{"src":"./img/restos/resto6.jpg","alt":""},
+      "img":{"src":"./img/restaurante/resto6.jpg","alt":""},
       "menu":[
         {"id":1,"name":"Medias","price":"$8.99","desc":"Nuestra especialidad"},
         {"id":2,"name":"Medias Lunas","price":"$9.99","desc":"Te las recomendamos"},
@@ -355,7 +355,7 @@
       "name":"Buenos Días boliva",
       "dist":"0,3km","ubic":"A la vuelta de la escuela","time":"13:00-22:00",
       "value":{"stars":4,"coments":47,"cost":2},
-      "img":{"src":"./img/restos/resto8.jpg","alt":""},
+      "img":{"src":"./img/restaurante/resto8.jpg","alt":""},
       "menu":[
         {"id":1,"name":"Papas","price":"$8.99","desc":"Nuestra especialidad"},
         {"id":2,"name":"Patatas","price":"$9.99","desc":"Te las recomendamos"},
@@ -384,29 +384,29 @@
       "name":"Caaa",
       "dist":"6540km","ubic":"Grand Bourg, Rotonda","time":"03:00-23:00",
       "value":{"stars":4,"coments":456,"cost":2},
-      "img":{"src":"./img/restos/resto9.jpg","alt":""},
+      "img":{"src":"./img/restaurante/resto9.jpg","alt":""},
       "menu":[
-        {"id":1,"name":"Chinaaa","price":"$8.99","desc":"Nuestra especialidad"},
-        {"id":2,"name":"Chinaba","price":"$9.99","desc":"Te las recomendamos"},
-        {"id":3,"name":"Chinaca","price":"$6.99","desc":"China como su madre"},
-        {"id":4,"name":"Chinada","price":"$7.99","desc":"Importada de China"},
-        {"id":5,"name":"Chinaea","price":"$6.99","desc":"Recien Llegada"},
-        {"id":6,"name":"Chinafa","price":"$7.99","desc":"No llegada"},
-        {"id":7,"name":"Chinaga","price":"$6.99","desc":"Que Chinarda"},
-        {"id":8,"name":"Chinaha","price":"$7.99","desc":"Bien china"},
-        {"id":9,"name":"Chinaia","price":"$8.99","desc":"Que China"},
-        {"id":10,"name":"Chinaja","price":"$9.99","desc":"Con pelitos"},
-        {"id":11,"name":"Chinaka","price":"$6.99","desc":"Que Chinaka"},
-        {"id":12,"name":"Chinama","price":"$7.99","desc":"Que Chinama"},
-        {"id":13,"name":"Chinana","price":"$7.99","desc":"Que Chinana"},
-        {"id":14,"name":"Chinaña","price":"$8.99","desc":"Que Chinaña"},
-        {"id":15,"name":"Chinala","price":"$6.99","desc":"Que Chinala"},
-        {"id":16,"name":"Chinara","price":"$8.99","desc":"Que Chinara"},
-        {"id":17,"name":"Chinasa","price":"$6.99","desc":"Tiene lactosa, cuidado"},
-        {"id":18,"name":"Chinata","price":"$9.99","desc":"Incluye combo"},
-        {"id":19,"name":"Chinaoa","price":"$6.99","desc":"Incluye juguete"},
-        {"id":20,"name":"Chinapa","price":"$9.99","desc":"Inclusión"},
-        {"id":21,"name":"Chinaqua","price":"$9.99","desc":"Incluye Inclusión"}
+        {"id": 1, "name": "Chinaaa", "price": "$8.99", "desc": "Nuestra especialidad"},
+{"id": 2, "name": "Italiano", "price": "$10.99", "desc": "Auténtica cocina italiana"},
+{"id": 3, "name": "Mexicano", "price": "$7.99", "desc": "Sabor a México"},
+{"id": 4, "name": "Japonés", "price": "$12.99", "desc": "Delicias del sol naciente"},
+{"id": 5, "name": "Indio", "price": "$9.99", "desc": "Especias exóticas"},
+{"id": 6, "name": "Francés", "price": "$15.99", "desc": "Alta cocina francesa"},
+{"id": 7, "name": "Americano", "price": "$11.99", "desc": "Comida reconfortante"},
+{"id": 8, "name": "Mediterráneo", "price": "$13.99", "desc": "Sabores del Mediterráneo"},
+{"id": 9, "name": "Griego", "price": "$14.99", "desc": "Tradición griega"},
+{"id": 10, "name": "Tailandés", "price": "$8.99", "desc": "Aromas y sabores tailandeses"},
+{"id": 11, "name": "Coreano", "price": "$9.49", "desc": "Picante y sabroso"},
+{"id": 12, "name": "Vietnamita", "price": "$10.49", "desc": "Fresco y saludable"},
+{"id": 13, "name": "Brasileño", "price": "$11.49", "desc": "Carnes y más carnes"},
+{"id": 14, "name": "Árabe", "price": "$12.49", "desc": "Sabores del Medio Oriente"},
+{"id": 15, "name": "Español", "price": "$13.49", "desc": "Tapas y paella"},
+{"id": 16, "name": "Peruano", "price": "$14.49", "desc": "Ceviche y más"},
+{"id": 17, "name": "Africano", "price": "$15.49", "desc": "Diversidad culinaria"},
+{"id": 18, "name": "Austríaco", "price": "$16.49", "desc": "Pasteles y strudel"},
+{"id": 19, "name": "Belga", "price": "$17.49", "desc": "Chocolate y más"},
+{"id": 20, "name": "Cubano", "price": "$18.49", "desc": "Sabores del Caribe"},
+{"id": 21, "name": "Argentino", "price": "$19.49", "desc": "Carne a la parrilla"}
       ]
     }
   ]
