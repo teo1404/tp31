@@ -69,9 +69,7 @@ addToCart.addEventListener("click",()=>{
     uploadTotal();
   }
 });
-// let restoList = document.getElementById("restoList");
-// let resto  = document.createElement("a");
-// resto.setAttribute('href','menu.html');
+
 fetch('js/resto.json')
 .then(response => response.json())
 .then(data => {
