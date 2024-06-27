@@ -31,7 +31,7 @@
     },
     {
       "id":1,
-      "name":"Gran ChazaMilongas",
+      "name":"cristian Barber",
       "dist":"34km","ubic":"Latam, Pilar","time":"10:00-16:00",
       "value":{"stars":3,"coments":320,"cost":2},
       "img":{"src":"./img/restos/resto1.jpg","alt":""},
@@ -60,7 +60,7 @@
     },
     {
       "id":2,
-      "name":"MaxiChaza",
+      "name":"Maxi",
       "dist":"12km","ubic":"Latam, Tortu","time":"08:00-07:59",
       "value":{"stars":2,"coments":3,"cost":1},
       "img":{"src":"./img/restos/resto2.jpg","alt":""},
@@ -96,7 +96,7 @@
     },
     {
       "id":3,
-      "name":"Gran ChaPanchosza",
+      "name":"facu",
       "dist":"60km","ubic":"Grand Bourg, Rotonda","time":"08:00-23:00",
       "value":{"stars":1,"coments":999,"cost":3},
       "img":{"src":"./img/restos/resto3.jpg","alt":""},
@@ -157,7 +157,7 @@
     },
     {
       "id":5,
-      "name":"Chozas",
+      "name":"river",
       "dist":"1200km","ubic":"Grand Bourg, Rotonda","time":"03:00-23:00",
       "value":{"stars":3,"coments":456,"cost":2},
       "img":{"src":"./img/restos/resto5.jpg","alt":""},
@@ -186,7 +186,7 @@
     },
     {
       "id":6,
-      "name":"Trolex",
+      "name":"teo de river",
       "dist":"0,01km","ubic":"Tortu, Roberto Arlt","time":"17:20-21:40",
       "value":{"stars":5,"coments":30,"cost":3},
       "img":{"src":"./img/restos/resto6.jpg","alt":""},
@@ -216,7 +216,7 @@
     },
     {
       "id":7,
-      "name":"Chazex",
+      "name":"ooaoa",
       "dist":"980km","ubic":"Grand Bourg, Rotonda","time":"03:00-23:00",
       "value":{"stars":1,"coments":65,"cost":2},
       "img":{"src":"./img/restos/resto7.jpg","alt":""},
@@ -245,7 +245,7 @@
     },
     {
       "id":8,
-      "name":"Buenos Días Perú",
+      "name":"Buenos Días boliva",
       "dist":"0,3km","ubic":"A la vuelta de la escuela","time":"13:00-22:00",
       "value":{"stars":4,"coments":47,"cost":2},
       "img":{"src":"./img/restos/resto8.jpg","alt":""},
@@ -274,7 +274,7 @@
     },
     {
       "id":9,
-      "name":"Chozas",
+      "name":"Caaa",
       "dist":"6540km","ubic":"Grand Bourg, Rotonda","time":"03:00-23:00",
       "value":{"stars":4,"coments":456,"cost":2},
       "img":{"src":"./img/restos/resto9.jpg","alt":""},
