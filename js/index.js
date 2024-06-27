@@ -2,16 +2,14 @@
 let guardar=(id)=>{
     localStorage.setItem("resto",id);
   }
-  //conecto con el archivo json
-  //fetch('UBICACION - puede ser local o remoto')
+ 
   fetch('js/resto.json')
-  //espero respuesta
+
   .then(response => {
-    //almacena los datos obtenidos convertidos a json
+    
     return response.json()
   })
-  // cuando devuelve la conversión a un array de objetos podemos comenzar a utilizarlos.
-  // utilizamos una variable, en ésta oportunidad ocupamos el nombre DATA
+ 
   .then(data => {
     data.forEach(e=>{
       document.getElementById('restoList').innerHTML +=/*html*/`
