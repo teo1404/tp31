@@ -229,23 +229,7 @@ header{
       background-color: rgba(19, 209, 146, 0.1);
       font-weight:700;
     }
-    /* button{
-      flex: 0 0 33.33%;
-      border:0;
-      background-color:transparent!important;
-      cursor:pointer;
-      font-size: 105%;
-      color:var(--morfiGray);
-      text-transform:uppercase;
-    }
-    button:hover{
-      border-top:3px solid var(--morfiGreen);
-      color:black;
-    }
-    button.actual{
-      border-top:3px solid var(--morfiGreen);
-      color:black;
-    } */
+    
   }
   .flex{
     display: flex;
