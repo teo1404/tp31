@@ -7,26 +7,133 @@
       "value":{"stars":4,"coments":72,"cost":2},
       "img":{"src":"./img/restos/resto0.jpg","alt":""},
       "menu":[
-        {"id":1,"name":"CARNE","price":"$8.99","desc":"Nuestra especialidad"},
-        {"id":2,"name":"Patatas","price":"$9.99","desc":"Te las recomendamos"},
-        {"id":3,"name":"fideos","price":"$6.99","desc":"Que boludo"},
-        {"id":4,"name":"Patatas Fritas","price":"$7.99","desc":"Que patatas che"},
-        {"id":5,"name":"Papas al barro","price":"$6.99","desc":"zzzz"},
-        {"id":6,"name":"lechon a la parrila","price":"$7.99","desc":"river river"},
-        {"id":7,"name":"boca","price":"$6.99","desc":"puto"},
-        {"id":8,"name":"milanga","price":"$7.99","desc":"Bien calentitas"},
-        {"id":9,"name":"Papas a la Francesa","price":"$8.99","desc":"Que papulis"},
-        {"id":10,"name":"arroz","price":"$9.99","desc":"Que rico"},
-        {"id":11,"name":"Papas a las Brazas","price":"$6.99","desc":"Que papulis"},
-        {"id":12,"name":"Patatas a vinagreta","price":"$7.99","desc":"Que papulis"},
-        {"id":13,"name":"Pollo al Disco","price":"$7.99","desc":"Que pollo"},
-        {"id":14,"name":"carne al Disco","price":"$8.99","desc":"mianman"},
-        {"id":15,"name":"Papas Rusticas","price":"$6.99","desc":"Que papulis"},
-        {"id":16,"name":"Patatas","price":"$8.99","desc":" papulis"},
-        {"id":17,"name":"Noisette","price":"$6.99","desc":"Que "},
-        {"id":18,"name":"Patatas Noisette","price":"$9.99","desc":"Que papulis"},
-        {"id":19,"name":"Papas Torti","price":"$6.99","desc":"Que papulis"},
-        {"id":20,"name":"Patatas Torti","price":"$9.99","desc":"Que papulis"}
+        {
+            "id": 1,
+            "name": "Media Luna de Miel",
+            "price": "$10.99",
+            "desc": "Deliciosa y dulce"
+        },
+        {
+            "id": 2,
+            "name": "Media Luna Integral",
+            "price": "$11.99",
+            "desc": "Saludable y sabrosa"
+        },
+        {
+            "id": 3,
+            "name": "Media Luna de Chocolate",
+            "price": "$8.99",
+            "desc": "Para los amantes del chocolate"
+        },
+        {
+            "id": 4,
+            "name": "Medialuna con Almendras",
+            "price": "$9.99",
+            "desc": "Crujiente y deliciosa"
+        },
+        {
+            "id": 5,
+            "name": "Medias Luna Vegana",
+            "price": "$8.49",
+            "desc": "Hecha sin ingredientes de origen animal"
+        },
+        {
+            "id": 6,
+            "name": "Don Satur Dulce",
+            "price": "$8.99",
+            "desc": "Perfecta para acompañar con café"
+        },
+        {
+            "id": 7,
+            "name": "Okebon de Almendra",
+            "price": "$7.99",
+            "desc": "Con un toque de almendras"
+        },
+        {
+            "id": 8,
+            "name": "Okebon de Coco",
+            "price": "$8.49",
+            "desc": "Exótico y sabroso"
+        },
+        {
+            "id": 9,
+            "name": "Kiwi Fresco",
+            "price": "$9.99",
+            "desc": "Directo del huerto"
+        },
+        {
+            "id": 10,
+            "name": "Kiwi Deshidratado",
+            "price": "$10.99",
+            "desc": "Para un snack saludable"
+        },
+        {
+            "id": 11,
+            "name": "Kiwi en Almíbar",
+            "price": "$8.99",
+            "desc": "Dulce y jugoso"
+        },
+        {
+            "id": 12,
+            "name": "Kiwi Orgánico",
+            "price": "$9.49",
+            "desc": "Cultivado sin pesticidas"
+        },
+        {
+            "id": 13,
+            "name": "Kiwi con Yogur",
+            "price": "$9.99",
+            "desc": "Una combinación perfecta"
+        },
+        {
+            "id": 14,
+            "name": "Kiwi con Miel",
+            "price": "$10.49",
+            "desc": "Un toque de dulzura"
+        },
+        {
+            "id": 15,
+            "name": "Amazando Tradicional",
+            "price": "$7.99",
+            "desc": "El sabor de siempre"
+        },
+        {
+            "id": 16,
+            "name": "Amazando de Avena",
+            "price": "$8.49",
+            "desc": "Saludable y deliciosa"
+        },
+        {
+            "id": 17,
+            "name": "Amazing Chocolate",
+            "price": "$8.99",
+            "desc": "Para los más golosos"
+        },
+        {
+            "id": 18,
+            "name": "Waffles Belgas",
+            "price": "$11.99",
+            "desc": "Auténtico sabor belga"
+        },
+        {
+            "id": 19,
+            "name": "Waffles con Frutas",
+            "price": "$9.99",
+            "desc": "Frescas y sabrosas"
+        },
+        {
+            "id": 20,
+            "name": "Waffles con Crema",
+            "price": "$10.99",
+            "desc": "Suave y deliciosa"
+        },
+        {
+            "id": 21,
+            "name": "Torta Frita",
+            "price": "$7.99",
+            "desc": "Crujiente y esponjosa"
+        }
+        
       ]
     },
     {
