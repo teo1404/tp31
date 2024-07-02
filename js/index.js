@@ -1,15 +1,14 @@
-
 let guardar=(id)=>{
     localStorage.setItem("resto",id);
   }
- 
+
   fetch('js/resto.json')
 
   .then(response => {
     
     return response.json()
   })
- 
+
   .then(data => {
     data.forEach(e=>{
       document.getElementById('restoList').innerHTML +=/*html*/`
